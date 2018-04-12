@@ -1,2 +1,2 @@
 # RL
-RL gmae practise 
+RL game practise 
